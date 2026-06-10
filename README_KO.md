@@ -1,5 +1,7 @@
 # Dreamine.IO.Abstractions
 
+[English documentation](./README.md)
+
 Dreamine IO 패키지군에서 공통으로 사용하는 벤더 중립 산업용 I/O 계약 레이어입니다.
 
 이 패키지는 Digital Input, Digital Output, Analog Input, Analog Output 흐름에서 공통으로 사용할 인터페이스와 모델만 정의합니다. Ajin, Comizoa, Fastech 또는 기타 벤더 런타임 DLL은 참조하지 않습니다.

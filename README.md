@@ -1,5 +1,7 @@
 # Dreamine.IO.Abstractions
 
+[Korean documentation](./README_KO.md)
+
 Vendor-neutral industrial I/O contracts for the Dreamine IO package family.
 
 This package defines common interfaces and models for digital input, digital output, analog input, and analog output workflows. It intentionally does not reference Ajin, Comizoa, Fastech, or any other vendor runtime DLL.
